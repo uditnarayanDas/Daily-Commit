@@ -1,0 +1,5 @@
+# Ignore everything except log.txt
+*
+!log.txt
+!.github/
+!.github/workflows/
